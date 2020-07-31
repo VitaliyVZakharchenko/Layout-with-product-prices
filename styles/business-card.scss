@@ -1,0 +1,13 @@
+@import './variables.scss';
+
+.business-price {
+    background-color: $business-price-order-color;
+}
+
+.blue-checkmark {
+    background-image: url($business-checkmark);
+}
+
+.business-btn {
+    background-color: $business-price-order-color;
+}

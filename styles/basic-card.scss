@@ -1,0 +1,13 @@
+@import './variables.scss';
+
+.basic-price {
+    background-color: $basic-price-order-color;
+}
+
+.green-checkmark {
+    background-image: url($basic-checkmark);
+}
+
+.basic-btn {
+    background-color: $basic-price-order-color;
+}

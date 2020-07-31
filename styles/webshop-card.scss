@@ -1,0 +1,13 @@
+@import './variables.scss';
+
+.webshop-price {
+    background-color: $webshop-price-order-color;
+}
+
+.orange-checkmark {
+    background-image: url($webshop-checkmark);
+}
+
+.webshop-btn {
+    background-color: $webshop-price-order-color;
+}

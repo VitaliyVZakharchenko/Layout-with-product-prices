@@ -1,0 +1,19 @@
+@import 'card.scss';
+@import 'basic-card.scss';
+@import 'business-card.scss';
+@import 'webshop-card.scss';
+@import 'variables.scss';
+
+* {
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+main {
+    background-color: #141b1c;
+    // width: 1440px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+}
